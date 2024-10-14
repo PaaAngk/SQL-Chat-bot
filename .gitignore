@@ -1,0 +1,5 @@
+*.csv
+qdrant/qdrant_data
+venv
+*.ipynb
+*/__pycache__
